@@ -1,2 +1,1 @@
-# PreCurso-H
-Prueba con README
+Escrito desde code para pruba 1 con Readme
